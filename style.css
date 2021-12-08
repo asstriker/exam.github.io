@@ -127,11 +127,11 @@ input[type="file"] {
 .btn {
    display:inline-block;
    padding:10px 20px;
-   background-color: #1BBA93;
+   background-color: #e63395;
    font-size:17px;
    border:none;
    border-radius:5px;
-   color:#bcf5e7;
+   color:#14201d;
    cursor:pointer;
 }
 
