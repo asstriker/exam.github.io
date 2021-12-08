@@ -8,30 +8,32 @@
 /* Register Form */
 /*---------------------------------------*/
 body {
-  background:linear-gradient(to right, #78a7ba 0%, #a8a69a 50%, #78a7ba 99%);
+  background:linear-gradient(to right, #c8dd06 0%, #f52687 50%, #091ab3 99%);
 }
 
 .signup-form {
   font-family: "Roboto", sans-serif;
   width:650px;
   margin:30px auto;
-  background:linear-gradient(to right, #ffffff 0%, #c8c0cc 50%, #ffffff 99%);
-  border-radius: 10px;
+  background:linear-gradient(to right, #e00fd6 0%, #8780c7 50%, #db8686 99%);
+  border-radius: 10px; 
+  transition: cubic-bezier(0.075, 0.82, 0.165, 1);
 }
 
 /*---------------------------------------*/
 /* Form Header */
 /*---------------------------------------*/
 .form-header  {
-  background-color: #EFF0F1;
+  background-color: #ec0b4eea;
   border-top-left-radius: 10px;
-  border-top-right-radius: 10px;
+  border-top-right-radius: 10px; 
+  color:black;
 }
 
 .form-header h1 {
   font-size: 30px;
   text-align:center;
-  color:#666;
+  color: #081814;
   padding:20px 0;
   border-bottom:1px solid #cccccc;
 }
