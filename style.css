@@ -8,14 +8,14 @@
 /* Register Form */
 /*---------------------------------------*/
 body {
-  background:linear-gradient(to right, #78a7ba 0%, #385D6C 50%, #78a7ba 99%);
+  background:linear-gradient(to right, #78a7ba 0%, #a8a69a 50%, #78a7ba 99%);
 }
 
 .signup-form {
   font-family: "Roboto", sans-serif;
   width:650px;
   margin:30px auto;
-  background:linear-gradient(to right, #ffffff 0%, #fafafa 50%, #ffffff 99%);
+  background:linear-gradient(to right, #ffffff 0%, #a230d6 50%, #ffffff 99%);
   border-radius: 10px;
 }
 
